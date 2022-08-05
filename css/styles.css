@@ -5,14 +5,26 @@
 
 .sidebar {
   text-align: center;
-  margin: auto;
-  padding: 0rem;
+}
+
+.AboutMe {
+  margin-left: 1rem;
+  padding: 1rem;
+}
+
+.AboutMeSubhead {
+ margin-left: 1rem;
+ padding: 2rem;
+}
+
+.AboutMeText {
+margin-left: 2rem;
 }
 
 body {
   background-color: darkslategrey;
 }
 
-.AboutMe {
-  margin-left: 1rem;
+.Projects {
+  margin: .10rem;
 }
