@@ -9,7 +9,9 @@
 
 .AboutMe {
   margin-left: 1rem;
+  margin-bottom: 1rem;
   padding: 1rem;
+  background-color: #e9ecef;
 }
 
 .AboutMeSubhead {
@@ -25,6 +27,15 @@ body {
   background-color: darkslategrey;
 }
 
-.Projects {
+.Project {
   margin: .10rem;
+}
+
+.Project p {
+  margin: 1rem;
+}
+
+
+.ProjectItem {
+  float: left;
 }
