@@ -18,6 +18,12 @@
 
 _To be used as a landing page for William Mentzer's Portfolio._
 
+## Setup/Installation Requirements
+
+* Clone Repository to Desktop.
+* Navigate to top level of the directory.
+* Open Portfolio-Landing/index.html in browser.
+
 ## Known Bugs
 
 * _Horizontal scroll bar on page existing despite no to content to sift through. Likely due to stacking margins in styles.css ._
