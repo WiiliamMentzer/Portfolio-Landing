@@ -14,6 +14,21 @@
   background-color: #e9ecef;
 }
 
+.AboutMe img {
+  width: 5%;
+  height: auto;
+  display: block;
+  box-sizing: border-box;
+}
+
+.AboutMe p {
+  float: left;
+}
+
+.AboutMe h2 {
+  float: left;
+}
+
 .AboutMeSubhead {
  margin-left: 1rem;
  padding: 2.75rem;
@@ -31,6 +46,10 @@ body {
   margin: .10rem;
 }
 
+.Project  h1 {
+  margin-bottom: 2rem;
+}
+
 .Project a {
   margin-left: 1rem;
 }
@@ -42,4 +61,13 @@ body {
 
 .ProjectItem {
   float: left;
+}
+
+.Drip {
+  border: 10px solid blueviolet;
+  border-color: blueviolet;
+}
+
+.Redacted {
+  font-weight: bolder;
 }
