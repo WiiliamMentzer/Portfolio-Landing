@@ -4,7 +4,7 @@
 }
 
 .sidebar {
-  text-align: center;
+  margin: .10rem;
 }
 
 .AboutMe {
@@ -14,7 +14,7 @@
 
 .AboutMeSubhead {
  margin-left: 1rem;
- padding: 2rem;
+ padding: 2.75rem;
 }
 
 .AboutMeText {
