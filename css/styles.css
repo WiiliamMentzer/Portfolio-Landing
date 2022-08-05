@@ -3,6 +3,18 @@
   text-align: center;
 }
 
+.JobDesc {
+  font-weight: bold;
+}
+
+#TitleIcon {
+  float: left;
+  width: 10%;
+  height: auto;
+  box-sizing: content-box;
+  display: block;
+}
+
 .sidebar {
   margin: .10rem;
 }
@@ -15,18 +27,17 @@
 }
 
 .AboutMe img {
+  float:left;
   width: 5%;
   height: auto;
-  display: block;
-  box-sizing: border-box;
 }
 
 .AboutMe p {
-  float: left;
+  float: right;
 }
 
 .AboutMe h2 {
-  float: left;
+  float: right;
 }
 
 .AboutMeSubhead {
